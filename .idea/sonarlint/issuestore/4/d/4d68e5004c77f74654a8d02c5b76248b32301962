@@ -1,0 +1,22 @@
+
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ô‡û
+R
+java:S4973""<Strings and Boxed types should be compared using "equals()".(˜Ï¾ì
+R
+java:S4973&"<Strings and Boxed types should be compared using "equals()".(ˆ¢Ü§
+@	java:S106"+Replace this use of System.out by a logger.(ê¤Ü®
+E	java:S106"+Replace this use of System.out by a logger.(—Şÿ‘øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ô‡û
+@	java:S106""+Replace this use of System.out by a logger.(˜Ï¾ì
+@	java:S106&"+Replace this use of System.out by a logger.(ˆ¢Ü§
+@	java:S106,"+Replace this use of System.out by a logger.(¾îú¤
+@	java:S106-"+Replace this use of System.out by a logger.(ÉĞË­
+@	java:S106."+Replace this use of System.out by a logger.(îëì
+E	java:S1061"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(ÎÉÓ¢
+@	java:S106C"+Replace this use of System.out by a logger.(Òà´Ç
+G
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+I
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹

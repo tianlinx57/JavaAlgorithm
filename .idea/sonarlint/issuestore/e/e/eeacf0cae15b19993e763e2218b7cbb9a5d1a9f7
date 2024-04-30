@@ -1,0 +1,25 @@
+
+z	java:S135%"YReduce the total number of break and continue statements in this loop to use at most one.(àÛ¦ôüÿÿÿÿ8º¥ŒÝñ1
+9
+java:S1643)"Use a StringBuilder instead.(²ž÷þ8»¥ŒÝñ1
+9
+java:S1643/"Use a StringBuilder instead.(ä÷²ñ8¼¥ŒÝñ1
+9
+java:S16430"Use a StringBuilder instead.(²ž÷þ8¾¥ŒÝñ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ó¯ÞÝ8¿¥ŒÝñ1
+t
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(†‡ßÉÿÿÿÿÿ8Ï¥ŒÝñ1
+8
+java:S3626"Remove this redundant jump.(ûÁÝ…8Ð¥ŒÝñ1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8Ð¥ŒÝñ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ƒðöíýÿÿÿÿ8Ð¥ŒÝñ1
+=
+java:S2129" Remove this "String" constructor(¨ƒûß8Ñ¥ŒÝñ1
+]	java:S125&"<This block of commented-out lines of code should be removed.(ƒðöíýÿÿÿÿ8Ò¥ŒÝñ1
+X	java:S1259"<This block of commented-out lines of code should be removed.(É¡ªñ8Ó¥ŒÝñ1
+]	java:S125;"<This block of commented-out lines of code should be removed.(Ìè“øùÿÿÿÿ8Ó¥ŒÝñ1
+L	java:S106b"+Replace this use of System.out by a logger.(×©žúûÿÿÿÿ8¥þŽÝñ1
+]	java:S125`"<This block of commented-out lines of code should be removed.(¸„•˜úÿÿÿÿ8Õ¥ŒÝñ1
+B
+java:S2129b" Remove this "String" constructor(×©žúûÿÿÿÿ8¥þŽÝñ1

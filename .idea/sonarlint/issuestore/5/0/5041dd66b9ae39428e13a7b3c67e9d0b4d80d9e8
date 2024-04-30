@@ -1,0 +1,8 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎÂë×ûÿÿÿÿ8»ôøñ1
+n	java:S116	"RRename this field "dp_used" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùö°8»ôøñ1
+X	java:S125"<This block of commented-out lines of code should be removed.(£ÕÉÙ8»ôøñ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ÿò¡ÿÿÿÿÿ8 »ôøñ1
+L	java:S106("+Replace this use of System.out by a logger.(€À¨©üÿÿÿÿ8¡»ôøñ1
+X	java:S125'"<This block of commented-out lines of code should be removed.(‹œ ³8‰Îôøñ1

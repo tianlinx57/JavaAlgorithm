@@ -1,0 +1,12 @@
+
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üìˆÿÿÿÿÿ
+f	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‡¿‚
+e	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ìù/
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹¯Ğ	
+V	java:S125"<This block of commented-out lines of code should be removed.(©½§…ÿÿÿÿÿ
+9
+java:S16590"#Declare "index" on a separate line.(÷¢Òñ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ÑäÀš
+V	java:S1257"<This block of commented-out lines of code should be removed.(ı´ø¤ıÿÿÿÿ
+Q	java:S125>"<This block of commented-out lines of code should be removed.(Š¹¨¤
+E	java:S106S"+Replace this use of System.out by a logger.(‰Áëøÿÿÿÿ

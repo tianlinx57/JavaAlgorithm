@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œ¦£¡þÿÿÿÿ8—­ ×å1
+X	java:S125"<This block of commented-out lines of code should be removed.(À–ºÍ8£­ ×å1
+]	java:S125"<This block of commented-out lines of code should be removed.(ˆú‡¬øÿÿÿÿ8ô‹¤×å1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ò•ñõþÿÿÿÿ8¤­ ×å1
+]	java:S125"<This block of commented-out lines of code should be removed.(±¤Ÿˆøÿÿÿÿ8¤­ ×å1
+G	java:S106&"+Replace this use of System.out by a logger.(°„»ù8¤­ ×å1
+G	java:S106'"+Replace this use of System.out by a logger.(ÿ•´ô8Šû¦×å1
+F	java:S106("+Replace this use of System.out by a logger.(»ÊC8Šû¦×å1
+G	java:S106)"+Replace this use of System.out by a logger.(ø¶û8Šû¦×å1
+L	java:S106*"+Replace this use of System.out by a logger.(Äôâ¬øÿÿÿÿ8Šû¦×å1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ð‘¡×å1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8Ð‘¡×å1
