@@ -1,0 +1,903 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CF1995A",
+            "request": "launch",
+            "mainClass": "CF1995A",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CodeForces.Main",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "CodeForces.Round956.Q1",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "CodeForces.Round956.Q2",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1(1)",
+            "request": "launch",
+            "mainClass": "CodeForces.round957_div3.Q1",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q2(1)",
+            "request": "launch",
+            "mainClass": "CodeForces.round957_div3.Q2",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "CodeForces.round957_div3.Q3",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "CodeForces.round957_div3.Q4",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Daxiaoxie",
+            "request": "launch",
+            "mainClass": "Daxiaoxie",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "HashTableExample",
+            "request": "launch",
+            "mainClass": "HashTableExample",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "InitialTest",
+            "request": "launch",
+            "mainClass": "InitialTest",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "LeakyBucket",
+            "request": "launch",
+            "mainClass": "LeakyBucket",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Newcoder_Week50_Q1",
+            "request": "launch",
+            "mainClass": "Newcoder_Week50_Q1",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1(2)",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100182与敌人战斗后的最大分数",
+            "request": "launch",
+            "mainClass": "Q100182与敌人战斗后的最大分数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100257找出唯一性数组的中位数",
+            "request": "launch",
+            "mainClass": "Q100257找出唯一性数组的中位数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100287找出与数组相加的整数II",
+            "request": "launch",
+            "mainClass": "Q100287找出与数组相加的整数II",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100297找到连续赢K场比赛的第一位玩家",
+            "request": "launch",
+            "mainClass": "Q100297找到连续赢K场比赛的第一位玩家",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100298到达第K级台阶的方案数",
+            "request": "launch",
+            "mainClass": "Q100298到达第K级台阶的方案数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100300所有数对中数位不同之和",
+            "request": "launch",
+            "mainClass": "Q100300所有数对中数位不同之和",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100305_K秒后第N个元素的值",
+            "request": "launch",
+            "mainClass": "Q100305_K秒后第N个元素的值",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100307候诊室中的最少椅子数",
+            "request": "launch",
+            "mainClass": "Q100307候诊室中的最少椅子数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100308特殊数组II",
+            "request": "launch",
+            "mainClass": "Q100308特殊数组II",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100311无需开会的工作日",
+            "request": "launch",
+            "mainClass": "Q100311无需开会的工作日",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100311无需开会的工作日_内存优化",
+            "request": "launch",
+            "mainClass": "Q100311无需开会的工作日_内存优化",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100319执行操作可获得的最大总奖励I",
+            "request": "launch",
+            "mainClass": "Q100319执行操作可获得的最大总奖励I",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100319执行操作可获得的最大总奖励I_bitset优化",
+            "request": "launch",
+            "mainClass": "Q100319执行操作可获得的最大总奖励I_bitset优化",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100322删除星号以后字典序最小的字符串",
+            "request": "launch",
+            "mainClass": "Q100322删除星号以后字典序最小的字符串",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100324清除数字",
+            "request": "launch",
+            "mainClass": "Q100324清除数字",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100327求出最长好子序列",
+            "request": "launch",
+            "mainClass": "Q100327求出最长好子序列",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100336交替组I",
+            "request": "launch",
+            "mainClass": "Q100336交替组I",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100338子数组按位与值为K的数目",
+            "request": "launch",
+            "mainClass": "Q100338子数组按位与值为K的数目",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100351交替组II",
+            "request": "launch",
+            "mainClass": "Q100351交替组II",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q100351交替组II_dp",
+            "request": "launch",
+            "mainClass": "Q100351交替组II_dp",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1115交替打印FooBar",
+            "request": "launch",
+            "mainClass": "Q1115交替打印FooBar",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1115交替打印FooBar_自己写_AtomicInteger",
+            "request": "launch",
+            "mainClass": "Q1115交替打印FooBar_自己写_AtomicInteger",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1115交替打印FooBar_自己写_Semaphore",
+            "request": "launch",
+            "mainClass": "Q1115交替打印FooBar_自己写_Semaphore",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q121买卖股票的最佳时机",
+            "request": "launch",
+            "mainClass": "Q121买卖股票的最佳时机",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q123买卖股票的最佳时机III",
+            "request": "launch",
+            "mainClass": "Q123买卖股票的最佳时机III",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1283使结果不超过阈值的最小除数",
+            "request": "launch",
+            "mainClass": "Q1283使结果不超过阈值的最小除数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q131分割回文串",
+            "request": "launch",
+            "mainClass": "Q131分割回文串",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q1818绝对差值和",
+            "request": "launch",
+            "mainClass": "Q1818绝对差值和",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q2(2)",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q216组合总和",
+            "request": "launch",
+            "mainClass": "Q216组合总和",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q22括号生成",
+            "request": "launch",
+            "mainClass": "Q22括号生成",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q242有效的字母异位词",
+            "request": "launch",
+            "mainClass": "Q242有效的字母异位词",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q2452距离字典两次编辑以内的单词",
+            "request": "launch",
+            "mainClass": "Q2452距离字典两次编辑以内的单词",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3(1)",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q300最长递增子序列",
+            "request": "launch",
+            "mainClass": "Q300最长递增子序列",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3040相同分数的最大操作数目II",
+            "request": "launch",
+            "mainClass": "Q3040相同分数的最大操作数目II",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3075幸福值最大化的选择方案",
+            "request": "launch",
+            "mainClass": "Q3075幸福值最大化的选择方案",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q307区域和检索_数组可修改",
+            "request": "launch",
+            "mainClass": "Q307区域和检索_数组可修改",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3095或值至少K的最短子数组I_自己写",
+            "request": "launch",
+            "mainClass": "Q3095或值至少K的最短子数组I_自己写",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3096得到更多分数的最少关卡数目",
+            "request": "launch",
+            "mainClass": "Q3096得到更多分数的最少关卡数目",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3101交替子数组计数",
+            "request": "launch",
+            "mainClass": "Q3101交替子数组计数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3102最小化曼哈顿距离",
+            "request": "launch",
+            "mainClass": "Q3102最小化曼哈顿距离",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3106满足距离约束且字典序最小的字符串",
+            "request": "launch",
+            "mainClass": "Q3106满足距离约束且字典序最小的字符串",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3107使数组中位数等于K的最少操作数",
+            "request": "launch",
+            "mainClass": "Q3107使数组中位数等于K的最少操作数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3108带权图里旅途的最小代价_dfs",
+            "request": "launch",
+            "mainClass": "Q3108带权图里旅途的最小代价_dfs",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3108带权图里旅途的最小代价_并查集",
+            "request": "launch",
+            "mainClass": "Q3108带权图里旅途的最小代价_并查集",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3108带权图里旅途的最小代价_并查集_自己写",
+            "request": "launch",
+            "mainClass": "Q3108带权图里旅途的最小代价_并查集_自己写",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3111覆盖所有点的最少矩形数目",
+            "request": "launch",
+            "mainClass": "Q3111覆盖所有点的最少矩形数目",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3112访问消失节点的最少时间_稀疏图_堆优化_邻接表",
+            "request": "launch",
+            "mainClass": "Q3112访问消失节点的最少时间_稀疏图_堆优化_邻接表",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3112访问消失节点的最少时间_稠密图写法_内存溢出",
+            "request": "launch",
+            "mainClass": "Q3112访问消失节点的最少时间_稠密图写法_内存溢出",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3113边界元素是最大值的子数组数目",
+            "request": "launch",
+            "mainClass": "Q3113边界元素是最大值的子数组数目",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3114替换字符可以得到的最晚时间",
+            "request": "launch",
+            "mainClass": "Q3114替换字符可以得到的最晚时间",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3115质数的最大距离",
+            "request": "launch",
+            "mainClass": "Q3115质数的最大距离",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3116单面值组合的第K小金额",
+            "request": "launch",
+            "mainClass": "Q3116单面值组合的第K小金额",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3116单面值组合的第K小金额_二分查找",
+            "request": "launch",
+            "mainClass": "Q3116单面值组合的第K小金额_二分查找",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3120统计特殊字母的数量I",
+            "request": "launch",
+            "mainClass": "Q3120统计特殊字母的数量I",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3121统计特殊字母的数量II",
+            "request": "launch",
+            "mainClass": "Q3121统计特殊字母的数量II",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3122使矩阵满足条件的最少操作次数",
+            "request": "launch",
+            "mainClass": "Q3122使矩阵满足条件的最少操作次数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3123最短路径中的边",
+            "request": "launch",
+            "mainClass": "Q3123最短路径中的边",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3123最短路径中的边_内存优化",
+            "request": "launch",
+            "mainClass": "Q3123最短路径中的边_内存优化",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3128直角三角形",
+            "request": "launch",
+            "mainClass": "Q3128直角三角形",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3129找出所有稳定的二进制数组I",
+            "request": "launch",
+            "mainClass": "Q3129找出所有稳定的二进制数组I",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3129找出所有稳定的二进制数组I_动态规划",
+            "request": "launch",
+            "mainClass": "Q3129找出所有稳定的二进制数组I_动态规划",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3136有效单词",
+            "request": "launch",
+            "mainClass": "Q3136有效单词",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3137_K周期字符串需要的最少操作次数",
+            "request": "launch",
+            "mainClass": "Q3137_K周期字符串需要的最少操作次数",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3138同位字符串连接的最小长度",
+            "request": "launch",
+            "mainClass": "Q3138同位字符串连接的最小长度",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3139使数组中所有元素相等的最小开销_正确",
+            "request": "launch",
+            "mainClass": "Q3139使数组中所有元素相等的最小开销_正确",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3139使数组中所有元素相等的最小开销_错误_没考虑max比最大值大的情况",
+            "request": "launch",
+            "mainClass": "Q3139使数组中所有元素相等的最小开销_错误_没考虑max比最大值大的情况",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3143正方形中的最多点数_数组实现",
+            "request": "launch",
+            "mainClass": "Q3143正方形中的最多点数_数组实现",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3144分割字符频率相等的最少子字符串",
+            "request": "launch",
+            "mainClass": "Q3144分割字符频率相等的最少子字符串",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3147从魔法师身上吸取的最大能量",
+            "request": "launch",
+            "mainClass": "Q3147从魔法师身上吸取的最大能量",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3148矩阵中的最大得分",
+            "request": "launch",
+            "mainClass": "Q3148矩阵中的最大得分",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3149找出分数最低的排列",
+            "request": "launch",
+            "mainClass": "Q3149找出分数最低的排列",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3159查询数组中元素的出现位置",
+            "request": "launch",
+            "mainClass": "Q3159查询数组中元素的出现位置",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3160所有球里面不同颜色的数目",
+            "request": "launch",
+            "mainClass": "Q3160所有球里面不同颜色的数目",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3160所有球里面不同颜色的数目_两个hashmap",
+            "request": "launch",
+            "mainClass": "Q3160所有球里面不同颜色的数目_两个hashmap",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3164优质数对的总数II",
+            "request": "launch",
+            "mainClass": "Q3164优质数对的总数II",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q3165不包含相邻元素的子序列的最大和",
+            "request": "launch",
+            "mainClass": "Q3165不包含相邻元素的子序列的最大和",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q39组合总和",
+            "request": "launch",
+            "mainClass": "Q39组合总和",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q416分割等和子集_dp",
+            "request": "launch",
+            "mainClass": "Q416分割等和子集_dp",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q474一和零",
+            "request": "launch",
+            "mainClass": "Q474一和零",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q494目标和_dp",
+            "request": "launch",
+            "mainClass": "Q494目标和_dp",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q494目标和_回溯",
+            "request": "launch",
+            "mainClass": "Q494目标和_回溯",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q526优美的排列",
+            "request": "launch",
+            "mainClass": "Q526优美的排列",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q70爬楼梯",
+            "request": "launch",
+            "mainClass": "Q70爬楼梯",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q739每日温度",
+            "request": "launch",
+            "mainClass": "Q739每日温度",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q78子集",
+            "request": "launch",
+            "mainClass": "Q78子集",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q90子集II",
+            "request": "launch",
+            "mainClass": "Q90子集II",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Q93复原IP地址",
+            "request": "launch",
+            "mainClass": "Q93复原IP地址",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Quark引擎调度",
+            "request": "launch",
+            "mainClass": "Quark引擎调度",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "ReadWriteLockDemo",
+            "request": "launch",
+            "mainClass": "ReadWriteLockDemo",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "SimilarHuiwen",
+            "request": "launch",
+            "mainClass": "SimilarHuiwen",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "SurvivorInNperson",
+            "request": "launch",
+            "mainClass": "SurvivorInNperson",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "ThreadLocalExample",
+            "request": "launch",
+            "mainClass": "ThreadLocalExample",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "TinyURL",
+            "request": "launch",
+            "mainClass": "TinyURL",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "danci_pipei",
+            "request": "launch",
+            "mainClass": "danci_pipei",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "shanchu_chongfuxiang",
+            "request": "launch",
+            "mainClass": "shanchu_chongfuxiang",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "zuixiao_haojinzhi",
+            "request": "launch",
+            "mainClass": "zuixiao_haojinzhi",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "zuixiao_zishuzu",
+            "request": "launch",
+            "mainClass": "zuixiao_zishuzu",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "zuixiao_zishuzu_guanfang",
+            "request": "launch",
+            "mainClass": "zuixiao_zishuzu_guanfang",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "删去1号节点",
+            "request": "launch",
+            "mainClass": "删去1号节点",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "反转链表",
+            "request": "launch",
+            "mainClass": "反转链表",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "小美和小团_矩阵相聚",
+            "request": "launch",
+            "mainClass": "小美和小团_矩阵相聚",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "数组还原",
+            "request": "launch",
+            "mainClass": "数组还原",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "整数切割",
+            "request": "launch",
+            "mainClass": "整数切割",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "死锁案例",
+            "request": "launch",
+            "mainClass": "死锁案例",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "消除AB",
+            "request": "launch",
+            "mainClass": "消除AB",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "环形链表",
+            "request": "launch",
+            "mainClass": "环形链表",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "线程池10个",
+            "request": "launch",
+            "mainClass": "线程池10个",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "Trie",
+            "request": "launch",
+            "mainClass": "自定义数据结构.Trie",
+            "projectName": "java算法_leecode_5f2517d1"
+        },
+        {
+            "type": "java",
+            "name": "螺旋矩阵",
+            "request": "launch",
+            "mainClass": "螺旋矩阵",
+            "projectName": "java算法_leecode_5f2517d1"
+        }
+    ]
+}
