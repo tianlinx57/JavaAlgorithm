@@ -1,0 +1,1 @@
+{"name":"Local: kedaxunfeiQ3","url":"e:\\2024春季\\java算法\\bishiti\\src\\kedaxunfeiQ3.java","tests":[{"id":1725367006355,"input":"3\n2 1 4","output":"2 7 4"},{"id":1725367019399,"input":"5\n2 3 6 1 4","output":"11 9 6 11 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\2024春季\\java算法\\bishiti\\src\\kedaxunfeiQ3.java","group":"local","local":true}

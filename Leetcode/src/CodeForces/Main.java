@@ -1,61 +1,29 @@
+package CodeForces;
 
 import java.util.*;
  
 public class Main {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int times = Integer.parseInt(in.nextLine());
- 
-        for(int i=0;i<times;i++){
-            int n = in.nextInt();
-            long[] values = new long[n+1];
-            int[] flags = new int[n+1];
-            Arrays.fill(flags, -1);
-            for(int j=1;j<=n;j++){
-                values[j] = in.nextLong();
+    public long min_value (int[] nums, int m) {
+        long ans = 0;
+        long min = Long.MAX_VALUE;
+        long max = 0;
+        int n = nums.length;
+        for(int i=0;i<n;i++){
+            min = Math.min(min,nums[i]);
+            max = Math.max(max,nums[i]);
+            if(i != 0){
+                ans = ans+Math.abs(nums[i] - nums[i-1]);
             }
-            Deque<int[]> deque = new ArrayDeque<>();
-            for(int j=0;j<n-1;j++){
-                int point1 = in.nextInt();
-                int point2 = in.nextInt();
-                int[] temp = new int[]{point1,point2};
-                deque.offer(temp);
-            }
-            
-            flags[1] = 0;
-            while(!deque.isEmpty()){
-                int[] temp = deque.poll();
-                int point1 = temp[0];
-                int point2 = temp[1];
-                if(flags[point1] == -1 && flags[point2] == -1){
-                    deque.offer(temp);
-                    continue;
-                }else if(flags[point1]!= -1 && flags[point2] == -1){
-                    flags[point2] = 1^flags[point1];
-                }else if(flags[point1] == -1 && flags[point2]!= -1){
-                    flags[point1] = 1^flags[point2];
-                }
-            }
- 
-            long count0 = 0;
-            long count1 = 0;
-            for(int j=1;j<=n;j++){
-                if(flags[j] == 0){
-                    count0 += values[j];
-                }else{
-                    count1 += values[j];
-                }
-            }
-            // System.out.println(Arrays.toString(flags));
-            // System.out.println(count0);
-            // System.out.println(count1);
-            if(count0 < count1) {
-                System.out.println(count1 + count0*2);
-            } else{
-                System.out.println(count0 + count1*2);
-            }
-            // System.out.println();
- 
         }
+        // if(min > m) ans = ans+
+        if(min > 1) ans = ans+min-1;
+        if(max < m) ans = ans+m-max;
+        return ans;
+    }
+    public static void main(String[] args) {
+        Main solution = new Main();
+        System.out.println(solution.min_value(new int[]{5,1000000000,5,1000000000,5,1000000000},1000000010));
+        System.out.println(Integer.valueOf("110"));
+        System.out.println(Integer.parseInt("110",2));
     }
 }

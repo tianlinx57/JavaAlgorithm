@@ -1,0 +1,1 @@
+{"name":"Local: baiduQ3_bingchaji","url":"e:\\2024春季\\java算法\\bishiti\\src\\baiduQ3_bingchaji.java","tests":[{"id":1724590070620,"input":"5 5 5\n1 2\n2 3\n3 4\n4 5\n1 5\n1 2 1 1 2\n1 2 3 4 5","output":"3\n1\n4\n4\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\2024春季\\java算法\\bishiti\\src\\baiduQ3_bingchaji.java","group":"local","local":true}

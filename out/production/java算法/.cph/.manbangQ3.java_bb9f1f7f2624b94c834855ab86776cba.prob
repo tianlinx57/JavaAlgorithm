@@ -1,0 +1,1 @@
+{"name":"Local: manbangQ3","url":"e:\\2024春季\\java算法\\bishiti\\src\\manbangQ3.java","tests":[{"id":1730285910896,"input":"5\n2 3 1 7 2\n1 2\n1 3\n2 5\n4 5","output":"2\n5\n6\n7\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\2024春季\\java算法\\bishiti\\src\\manbangQ3.java","group":"local","local":true}
