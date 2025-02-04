@@ -46,9 +46,8 @@ public class Q100319执行操作可获得的最大总奖励I_非全局变量 {
     public static void main(String[] args) {
         Q100319执行操作可获得的最大总奖励I_非全局变量 solution = new Q100319执行操作可获得的最大总奖励I_非全局变量();
         ClassLoader classLoader1 = solution.getClass().getClassLoader();
-        System.out.println(classLoader1);
-        System.out.println(classLoader1.getParent());
-        System.out.println(classLoader1.getParent().getParent());
         System.out.println(solution.maxTotalReward(new int[]{1,1,3,3}));
+
+
     }
 }
